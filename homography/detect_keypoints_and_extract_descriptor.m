@@ -2,14 +2,14 @@ clc;
 close all;
 format long g
 
-%http://www.vlfeat.org/overview/sift.html
 
-%1)
+
+%1) you need to download vlfeat and uncomment the  run('<path_to_vlfeat>/toolbox/vl_setup')
+%http://www.vlfeat.org/overview/sift.html 
 % run('<path_to_vlfeat>/toolbox/vl_setup')
 %vl_version verbose
 
-run('/home/behnam/workspace/vlfeat/toolbox/vl_setup')
-vl_version verbose
+
 
 %2)Detect keypoints and extract descriptors
 
