@@ -32,12 +32,12 @@ frequency=Fs/2*linspace(0,1, floor(L/2) +1);
 
 %% plotting the amplitude and frequecy in Hz
 figure('Name','Signal in frequency domain'), plot(frequency, amplitude );
-xlabel(' Frequency (Bins)')
+xlabel(' Frequency (HZ)')
 ylabel('Amplitude');
 
 
 %% plot using fftshift
 c=-Fs/2:  Fs/L  :Fs/2-Fs/L;
 figure('Name','Signal in frequency domain'),  plot(c,fftshift(abs( fft(y)  ))) ;
-xlabel(' Frequecny Hz)')
+xlabel(' Frequecny Bins')
 ylabel('Amplitude');
