@@ -1,4 +1,11 @@
 # Matlab Tutorials
+This repository contains some of my works with matlab example including Fast Fourier Transform, Finding Homography, Optical Flow, Hybrid Image, Computing Signal-to-Noise Ratio and Example of Dynamic Programing.
+
+## Fast Fourier Transform
+![Alt text](images/Signal-in-time-domain-1.jpg?raw=true "Signal-in-time-domain-1.jpg")
+![Alt text](images/signal_frequency_bin.jpg?raw=true "signal_frequency_bin")
+![Alt text](images/signal_frequency_hz.jpg?raw=true "signal_frequency_hz.jpg")
+
 
 ## Finding Homography Matrix using Singular-value Decomposition with Matlab
 
@@ -16,13 +23,29 @@ References: [1](http://ros-developer.com/2017/12/26/finding-homography-matrix-us
 
 ## Lucas–Kanade method optical flow with MATLAB
 
+![Alt text](images/bt_0.png?raw=true "bt_0.png")
+![Alt text](images/bt_1.png?raw=true "bt_1.png")
+
+![Alt text](images/estimated_optical_flow-300x300.jpg?raw=true "estimated_optical_flow-300x300.jpg")
+![Alt text](images/optical_flow_color_map.jpg?raw=true "optical_flow_color_map.jpg")
+
+Reference [1](http://ros-developer.com/2017/04/23/lucas-kanade-method-optical-flow-with-matlab/)
 
 ## Creating Hybrid Image With Matlab
+![Alt text](images/michelle_low_pass-286x300.jpg?raw=true "michelle_low_pass-286x300.jpg")
+![Alt text](images/obama_high_pass-290x300.jpg?raw=true "obama_high_pass-290x300.jpg")
+
+![Alt text](images/michelle_obama_-hybrid_images-295x300.jpg?raw=true "michelle_obama_-hybrid_images-295x300.jpg")
 
 References: [1](http://ros-developer.com/2017/05/16/creating-hybrid-image-with-matlab/)
 
 
+
+
 ## Peak Signal-to-Noise Ratio (PSNR) in Image using Matlab
+![Alt text](images/pout.jpg?raw=true "pout.jpg")
+![Alt text](images/pout_salt_pepper.jpg?raw=true "pout_salt_pepper.jpg")
+![Alt text](images/pout_SquaredError.jpg?raw=true "pout_SquaredError.jpg")
 
 
 
