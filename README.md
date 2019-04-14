@@ -6,8 +6,10 @@ This repository contains some of my works with matlab example including Fast Fou
 ![Alt text](images/signal_frequency_bin.jpg?raw=true "signal_frequency_bin")
 ![Alt text](images/signal_frequency_hz.jpg?raw=true "signal_frequency_hz.jpg")
 
+References: [1](http://ros-developer.com/2017/04/23/displaying-frequencies-of-signal-with-fast-fourier-transform/)
 
-## Finding Homography Matrix using Singular-value Decomposition with Matlab
+
+## [Finding Homography Matrix using Singular-value Decomposition with Matlab](homography/)
 
 ![Alt text](images/homography1.jpg?raw=true "homography1.jpg")
 ![Alt text](images/homography2.jpg?raw=true "homography2.jpg")
@@ -21,7 +23,7 @@ References: [1](http://ros-developer.com/2017/12/26/finding-homography-matrix-us
 [2](http://ros-developer.com/2017/04/28/stitching-image-using-sift-and-homography/)
 
 
-## Lucas–Kanade method optical flow with MATLAB
+## [Lucas–Kanade method optical flow with MATLAB](optical_flow/)
 
 ![Alt text](images/bt_0.png?raw=true "bt_0.png")
 ![Alt text](images/bt_1.png?raw=true "bt_1.png")
@@ -31,7 +33,7 @@ References: [1](http://ros-developer.com/2017/12/26/finding-homography-matrix-us
 
 Reference [1](http://ros-developer.com/2017/04/23/lucas-kanade-method-optical-flow-with-matlab/)
 
-## Creating Hybrid Image With Matlab
+## [Creating Hybrid Image With Matlab](hybrid_image/)
 ![Alt text](images/michelle_low_pass-286x300.jpg?raw=true "michelle_low_pass-286x300.jpg")
 ![Alt text](images/obama_high_pass-290x300.jpg?raw=true "obama_high_pass-290x300.jpg")
 
